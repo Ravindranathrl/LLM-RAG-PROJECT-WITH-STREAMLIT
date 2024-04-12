@@ -1,0 +1,10 @@
+# Add your project dependencies here 
+jupyterlab   
+ipywidgets   
+numpy
+openai
+tqdm
+faiss-cpu
+pandas
+pyyaml
+streamlit
